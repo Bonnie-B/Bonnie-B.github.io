@@ -6,19 +6,19 @@ main:
   - title: "Talks"
     url: /talks/    
        
-  - title: "Reviews"
+  - title: "Book Reviews"
     url: /year-archive/
      
-  - title: "Making"
+  - title: "Engagement"
     url: /portfolio/
- 
- 
- 
- # - title: "CV"
- #   url: /cv/
+
+
+#  - title: "Teaching"
+#    url: /teaching/  
+  
+# - title: "CV"
+#   url: /cv/
       
 #  - title: "Guide"
 #    url: /markdown/
     
-#  - title: "Teaching"
-#    url: /teaching/  
