@@ -5,7 +5,7 @@ permalink: /publication/2018-04-19-paper-title-number-1
 excerpt: 'This paper is about using the literate programming paradigm on migration metrics.'
 date: 2018-04-19
 venue: 'GIScience Research UK 26th Conference Proceedings'
-paperurl: 'https://www122.lamp.le.ac.uk/download/GISRUK2018_Contribution_115.pdf'
+paperurl: ''
 citation: 'Buyuklieva, B. and Dennett, A. (2018). Quick and Easy Recipes for Healthy Migration
 Research. In Conference Proceedings GISRUK 2018, GeoComputation Session, University of
 Leicester'
