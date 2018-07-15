@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "German Research Center for Artificial Intelligence, UK",
+    49.257014, 
+    7.042171
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Intel, Portland",
+     45.541063,
+    -122.917478
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "AAG 2018, New Orleans",
+    29.951907, 
+    -90.067931
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "UCL, London",
+    51.524742,
+    -0.134065
   ]
 ];
