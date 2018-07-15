@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Research & Publications"
+  - title: "Research"
     url: /publications/
 
-  - title: "Talks & Teaching"
+  - title: "Talks"
     url: /talks/    
        
-  - title: "Book Reviews"
+  - title: "Reviews"
     url: /year-archive/
      
   - title: "Making"
@@ -14,11 +14,11 @@ main:
  
  
  
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
       
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
     
-  - title: "Teaching"
-    url: /teaching/  
+#  - title: "Teaching"
+#    url: /teaching/  
