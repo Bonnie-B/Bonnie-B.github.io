@@ -16,5 +16,6 @@ Just follow [this link.](https://scholar.google.co.uk/citations?hl=en&user=QWIEE
 
 ![](https://media.giphy.com/media/mWJDGBXh2L60w/giphy.gif) ![](https://media2.giphy.com/media/GSaisbSpqmXWU/200.webp) 
 
-... If it has a DOI, then don't expect me to take the time to post about it...
+... If it has a DOI, then don't expect me to to post about it here...
 
+(That would be wasting precious time which could be usef for other stuff, such as coding or picking gifs!)
