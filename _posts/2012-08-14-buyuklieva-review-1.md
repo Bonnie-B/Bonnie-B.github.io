@@ -1,7 +1,7 @@
 ---
 title: 'Rethinking the Economics of Land and Housing'
 date: 2017-06-13
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2012/08/buyuklieva-review-1/
 tags:
   - housing
   - land economics
