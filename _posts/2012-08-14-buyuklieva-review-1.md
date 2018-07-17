@@ -26,7 +26,7 @@ The penultimate and final chapter of the book is concerned with the social impac
 
 >"the rise in inequality, has been driven not by productive activity, but rather by increasing residential land values which have manifested themselves through rising house prices" (p173)
 
-- a fairly popular opinion in housing studies at the present. The final chapter of the book comprises of general policy directives for balancing the economic benefits of land for the common good and private ownership. Although articulate, these are in no way a definite panacea for the bifurbation of interests outlined above. Instead, the suggestions sums up the theoretical arguements in the book in a reasonably successful effort to ground the theoretical discourse into that real world.
+\- a popular in housing studies at the present. The final chapter of the book comprises of general policy directives for balancing the economic benefits of land for the common good and private ownership. Although articulate, these are in no way a definite panacea for the bifurbation of interests outlined above. Instead, the suggestions sums up the theoretical arguements in the book in a reasonably successful effort to ground the theoretical discourse into that real world.
 
 
 Book Metadata:
